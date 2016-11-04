@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Oct 25 11:40:17 2016 
+Best design point: 1
+Design specs: 
+	EDATP:LOGIC_1bit_tb:1	corner	Nominal - 
+	TpHL_B		323.6p	Yes
+	TpLL_A_real		188.3p
+	tpLH_A		2.735n	No
+Design parameters: 
+	Tp		2n
+	Wn		180n
+	Wp		423n
+	VDD		1.8
+	Bp		1
+	Ba		1
+	Bn		1
+
+Received stop signal from user. 
+Interactive.113 completed. 
+Current time: Tue Oct 25 11:40:38 2016 

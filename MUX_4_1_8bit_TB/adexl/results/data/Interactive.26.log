@@ -1,0 +1,27 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Oct  3 12:21:19 2016 
+Best design point: 1
+Design specs: 
+	Tran_Test	corner	Nominal - 
+	D_Delay_R		364.8p	Yes
+	D_Delay_F		413.3p	Near
+	C_Delay_F		412p	Near
+	C_Delay_R		386.6p	Yes
+	B_Delay_R		366p	Yes
+	B_Delay_F		410.8p	Near
+	A_Delay_R		416p	Near
+	A_Delay_F		409.2p	Near
+Design parameters: 
+	VDD		1.8
+	Period		5n
+	Vsweep		0
+	Tsim		160n
+	Wp		6u
+	Wn		3u
+
+Interactive.26
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.26 completed. 
+Current time: Mon Oct  3 12:21:30 2016 

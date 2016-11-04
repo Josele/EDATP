@@ -1,0 +1,20 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Oct 31 21:22:26 2016 
+Best design point: 1
+Design specs: 
+	EDATP:ALU_8bit_tb:1	corner	Nominal - 
+	tp_A0_HL		1.315n
+	tp_A0_LH		1.046n
+	tp_A1_LH		1.158n
+	tp_A1_HL		1.223n
+Design parameters: 
+	Tp		4n
+	Vdd		1.8
+	Tsim		32n
+
+Interactive.36
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.36 completed. 
+Current time: Mon Oct 31 21:22:38 2016 
